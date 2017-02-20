@@ -3,7 +3,7 @@ Name: SmartData10
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Resets Data Usage depending on date!
 Maintainer: bitandabit
 Author: bitandabit
 Section: Tweaks
