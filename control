@@ -1,0 +1,9 @@
+Package: com.bitandabit.smartdata10
+Name: SmartData10
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: bitandabit
+Author: bitandabit
+Section: Tweaks
