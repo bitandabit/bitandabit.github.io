@@ -1,7 +1,7 @@
 include $(THEOS)/makefiles/common.mk
 
-TWEAK_NAME = SmartData10
-SmartData10_FILES = Tweak.xm
+TWEAK_NAME = CloseReply
+CloseReply_FILES = Tweak.xm
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
