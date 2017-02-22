@@ -1,9 +1,10 @@
 Package: com.bitandabit.closereply
 Name: CloseReply
 Depends: mobilesubstrate
-Version: 0.0.1
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
 Maintainer: bitandabit
 Author: bitandabit
 Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 120

@@ -2,7 +2,7 @@
 -(BOOL)_sentResponce{
 
 return true;
-exit;
+
 }
 
 
