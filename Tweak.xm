@@ -1,9 +1,11 @@
+
+
+
 %hook SBUserNotificationAlert
--(BOOL)_sentResponce{
 
-return true;
-
-}
-
+NSString *_alertSource = @"Messages";
+    -(BOOL)_sentResponce{
+    return true;
+ }
 
 %end
