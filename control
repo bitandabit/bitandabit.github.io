@@ -3,7 +3,7 @@ Name: CloseReply
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Just a simple tweak to close quick reply after message sent!
 Maintainer: bitandabit
 Author: bitandabit
 Section: Tweaks

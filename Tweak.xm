@@ -1,11 +1,5 @@
+%hook NCNotificationShortLookViewController
 
-
-
-%hook SBUserNotificationAlert
-
-NSString *_alertSource = @"Messages";
-    -(BOOL)_sentResponce{
-    return true;
- }
+-(BOOL)dismissPresentedViewControllerAndClearNotification:(BOOL)arg1 animated:(BOOL)arg2 ;
 
 %end
