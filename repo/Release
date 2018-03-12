@@ -1,0 +1,8 @@
+Origin: Bit Repo
+Label: Bit Repo
+Codename: ios
+Suite: stable
+Version: 1.0
+Architecture: iphoneos-arm
+Components: main
+Description: Experimental Projects
